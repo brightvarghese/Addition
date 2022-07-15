@@ -6,7 +6,7 @@
 
 def print_hi(n1, n2):
     # Use a breakpoint in the code line below to debug your script.
-    print(n1/n2)  # Press ⌘F8 to toggle the breakpoint.
+    pass  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
